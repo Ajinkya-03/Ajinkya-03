@@ -1,4 +1,4 @@
--<h1 align="center">Hi 👋, I'm Ajinkya</h1>
+<h1 align="center">Hi 👋, I'm Ajinkya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya-03&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya-03" /> </p>
 
 - 🌱 I’m currently learning *MERN, Java*
