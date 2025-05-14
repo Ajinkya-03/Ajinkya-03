@@ -3,9 +3,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Ajinkya-03&label=Profile%20views&color=00308F&style=flat" alt="Ajinkya-03" /> </p>
 
 
-👩‍💻 I'm currently working on **MERNStack Development.**
+👩‍💻 I'm currently working on **FullStack Development.**
 
-🎯 I'm currently learning **Java.**
+🎯 I'm currently learning **Java, NextJS.**
 
 👍 I'm looking to collaborate on **Frontend Projects.**
 
