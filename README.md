@@ -5,7 +5,7 @@
 
 👩‍💻 I'm currently working on **FullStack Development.**
 
-🎯 I'm currently learning **Java, NextJS.**
+🎯 I'm currently learning **Next.js and Express.**
 
 👍 I'm looking to collaborate on **Frontend Projects.**
 
